@@ -1,0 +1,28 @@
+_repo: A-Treatise-on-Anatomy-Physiology-and-Hygiene--Revised-Edition-_30541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cutter, Calvin
+    birthdate: 1807
+    deathdate: 1872
+    gutenberg_agent_id: '34663'
+    url: http://www.gutenberg.org/2009/agents/34663
+description: ''
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30541'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QP'
+- !lcsh 'Hygiene'
+- !lcsh 'Physiology'
+title: A Treatise on Anatomy, Physiology, and Hygiene (Revised Edition)
+url: http://www.gutenberg.org/ebooks/30541
