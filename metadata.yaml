@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34663'
     url: http://www.gutenberg.org/2009/agents/34663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30541#A-Treatise-on-Anatomy-Physiology-and-Hygiene--Revised-Edition-
 gutenberg_bookshelf: Physiology
 gutenberg_issued: '2009-11-24'
 gutenberg_type: Text
